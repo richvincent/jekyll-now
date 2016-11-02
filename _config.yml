@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Richard K Vincent
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Padawan Bitcoiner
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://secure.gravatar.com/avatar/866493d61dcabb9a9c37d09895b84862
 #
 # Flags below are optional
 #
